@@ -1,0 +1,10 @@
+C:\Users\eskal\Lab-master\bin\Debug\netcoreapp2.0\Lab.deps.json
+C:\Users\eskal\Lab-master\bin\Debug\netcoreapp2.0\Lab.runtimeconfig.json
+C:\Users\eskal\Lab-master\bin\Debug\netcoreapp2.0\Lab.runtimeconfig.dev.json
+C:\Users\eskal\Lab-master\bin\Debug\netcoreapp2.0\Lab.dll
+C:\Users\eskal\Lab-master\bin\Debug\netcoreapp2.0\Lab.pdb
+C:\Users\eskal\Lab-master\obj\Debug\netcoreapp2.0\Lab.csproj.CoreCompileInputs.cache
+C:\Users\eskal\Lab-master\obj\Debug\netcoreapp2.0\Lab.AssemblyInfoInputs.cache
+C:\Users\eskal\Lab-master\obj\Debug\netcoreapp2.0\Lab.AssemblyInfo.cs
+C:\Users\eskal\Lab-master\obj\Debug\netcoreapp2.0\Lab.dll
+C:\Users\eskal\Lab-master\obj\Debug\netcoreapp2.0\Lab.pdb
