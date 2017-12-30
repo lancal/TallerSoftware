@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Lab.Migrations
+namespace Cotizaciones.Migrations
 {
     public partial class InitialCreate : Migration
     {
@@ -12,7 +12,7 @@ namespace Lab.Migrations
                 name: "Personas",
                 columns: table => new
                 {
-                    ID = table.Column<int>(nullable: false)
+                    Id = table.Column<int>(nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
                     Materno = table.Column<string>(nullable: true),
                     Nombre = table.Column<string>(nullable: true),
@@ -21,7 +21,7 @@ namespace Lab.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Personas", x => x.ID);
+                    table.PrimaryKey("PK_Personas", x => x.Id);
                 });
         }
 
